@@ -25,5 +25,5 @@ The following are suggestions; additions to this list are welcome:
 
 - [ ] SMS, Telegram, Discord, Twitch, Twitter Send/Tip Bots
 
-** Note - Addresses aren't compatible with Bitcoin wallet code where normally a prefix version byte is just changed; full replacement of SHA256 -> SHA3-256 is necessary.**
+**Note - Addresses aren't compatible with Bitcoin wallet code where normally a prefix version byte is just changed; full replacement of SHA256 -> SHA3-256 is necessary.**
 
