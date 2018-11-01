@@ -12,6 +12,7 @@ The following are suggestions; additions to this list are welcome:
 - [ ] BSHA3 Docs
 - [ ] iancoleman/bip39
 - [ ] janoside/btc-rpc-explorer
+- [ ] jhoenicke/mempool
 - [x] SLIP-44 - 0
 - [x] SLIP-173 - bsha3
 - [ ] ElectrumX
