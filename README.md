@@ -24,10 +24,12 @@ Each listed repository will be forked into https://github.com/bsha3 for developm
 - [ ] [dgarage/NBitcoin](https://github.com/dgarage/nbitcoin), [dgarage/NBXplorer](https://github.com/dgarage/nbxplorer)
 - [ ] [btcpayserver/BTCPayServer](https://github.com/btcpayserver/btcpayserver), [btcpayserver/BTCPayServer-docker](https://github.com/btcpayserver/btcpayserver-docker)
 
-- [ ] Trezor, Ledger, KeepKey
-
 - [ ] Best (most reputable) free-listing exchange(s)
 - [ ] [BarterDEX](https://github.com/komodoplatform/barterdex)
+
+- [ ] Trezor, Ledger, KeepKey
+
+- [ ] Icon Pack - [atomiclabs/cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons)
 
 - [ ] SMS, Telegram, Discord, Twitch, Twitter Send & Tip Bots
 
