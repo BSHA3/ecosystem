@@ -11,20 +11,21 @@ The following are suggestions; additions to this list are welcome:
 - [x] BSHA3 Website
 - [ ] BSHA3 Docs
 - [ ] iancoleman/bip39
+- [ ] bitcoinjs/bitcoinjs-lib
 - [ ] janoside/btc-rpc-explorer
 - [ ] jhoenicke/mempool
 - [x] SLIP-44 - 0
 - [x] SLIP-173 - bsha3
-- [ ] ElectrumX
-- [ ] Electrum
-- [ ] NBitcoin, BTCPayServer, NBXplorer
+- [ ] kyuupichan/electrumx
+- [ ] spesmilo/electrum
+- [ ] dgarage/NBitcoin, dgarage/NBXplorer
+- [ ] btcpayserver/BTCPayServer, btcpayserver/BTCPayServer-docker
+
 - [ ] BarterDEX
+- [ ] Best (most reputable) free-listing exchange(s)
 
 - [ ] Trezor, Ledger, KeepKey
-
-- [ ] Best (most reputable) free-listing exchange(s)
 
 - [ ] SMS, Telegram, Discord, Twitch, Twitter Send/Tip Bots
 
 **Note - Addresses aren't compatible with Bitcoin wallet code where normally a prefix version byte is just changed; full replacement of SHA256 -> SHA3-256 is necessary.**
-
