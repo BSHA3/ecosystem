@@ -6,6 +6,8 @@ The following are suggestions; additions to this list are welcome.
 
 Each listed repository will be forked into https://github.com/bsha3 for development.
 
+Join the conversation: https://discord.gg/tjzc3AZ 
+
 ## To-Do
 
 - [x] Full Node (Wallet + P2P + RPC) - [bsha3/bsha3](https://github.com/bsha3/bsha3)
