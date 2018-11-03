@@ -28,6 +28,8 @@ Join the conversation: https://discord.gg/tjzc3AZ
 - [ ] [dgarage/NBitcoin](https://github.com/dgarage/nbitcoin), [dgarage/NBXplorer](https://github.com/dgarage/nbxplorer)
 - [ ] [btcpayserver/BTCPayServer](https://github.com/btcpayserver/btcpayserver), [btcpayserver/BTCPayServer-docker](https://github.com/btcpayserver/btcpayserver-docker)
 
+- [ ] Testnet - [bsha3/bsha3](https://github.com/bsha3/bsha3)
+
 - [ ] Best (most reputable) free-listing exchange(s)
 - [ ] [BarterDEX](https://github.com/komodoplatform/barterdex)
 
