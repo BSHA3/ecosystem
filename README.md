@@ -25,6 +25,7 @@ Join the conversation: https://discord.gg/tjzc3AZ
 - [x] SLIP-173 - `bsha3`
 - [ ] SPV (Lite) Wallet - [spesmilo/electrum](https://github.com/spesmilo/electrum)
 - [ ] SPV Wallet Server - [kyuupichan/electrumx](https://github.com/kyuupichan/electrumx)
+- [ ] Wasabi Wallet - [zksnacks/walletwasabi](https://github.com/zksnacks/walletwasabi)
 - [ ] [dgarage/NBitcoin](https://github.com/dgarage/nbitcoin), [dgarage/NBXplorer](https://github.com/dgarage/nbxplorer)
 - [ ] [btcpayserver/BTCPayServer](https://github.com/btcpayserver/btcpayserver), [btcpayserver/BTCPayServer-docker](https://github.com/btcpayserver/btcpayserver-docker)
 
