@@ -11,7 +11,7 @@ Join the conversation: https://discord.gg/tjzc3AZ
 ## To-Do
 
 - [x] Full Node (Wallet + P2P + RPC) - [bsha3/bsha3](https://github.com/bsha3/bsha3)
-- [x] CPU Miner - Part of full node; use `set-generate true <num_cores>`
+- [x] CPU Miner - Part of full node; use `setgenerate true <num_cores>`
 - [ ] GPU Miner - [ravencoin/miner](https://github.com/bsha3/miner)
 - [ ] ASIC Miner
 - [x] BSHA3 Logo - [bsha3/design-assets](https://github.com/bsha3/design-assets)
@@ -30,9 +30,6 @@ Join the conversation: https://discord.gg/tjzc3AZ
 - [ ] [btcpayserver/BTCPayServer](https://github.com/btcpayserver/btcpayserver), [btcpayserver/BTCPayServer-docker](https://github.com/btcpayserver/btcpayserver-docker)
 
 - [ ] Testnet - [bsha3/bsha3](https://github.com/bsha3/bsha3)
-
-- [ ] Best (most reputable) free-listing exchange(s)
-- [ ] [BarterDEX](https://github.com/komodoplatform/barterdex)
 
 - [ ] Trezor, Ledger, KeepKey
 
