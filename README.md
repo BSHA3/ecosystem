@@ -13,7 +13,7 @@ Each listed repository will be forked into https://github.com/bsha3 for developm
 ### High Priority
 - [x] Full Node (Wallet + P2P + RPC) - [bsha3/bsha3](https://github.com/bsha3/bsha3)
 - [x] CPU Miner - Part of full node; use `setgenerate true <num_cores>`, alternatively [cpuminer-multi](https://github.com/bsha3/cpuminer-multi)
-- [ ] GPU Miner - [ravencoin/miner](https://github.com/bsha3/miner), [tpruvot/ccminer](https://github.com/bsha3/ccminer)
+- [x] GPU Miner - [bsha3/ccminer-bsha3](https://github.com/bsha3/ccminer-bsha3)
 - [ ] ASIC Miner
 - [x] BSHA3 Logo - [bsha3/design-assets](https://github.com/bsha3/design-assets)
 - [x] BSHA3 Website - [bsha3/bsha3.github.io](https://github.com/bsha3/bsha3.github.io)
@@ -37,7 +37,6 @@ Each listed repository will be forked into https://github.com/bsha3 for developm
 - [ ] [btcpayserver/BTCPayServer](https://github.com/btcpayserver/btcpayserver), [btcpayserver/BTCPayServer-docker](https://github.com/btcpayserver/btcpayserver-docker)
 - [ ] SPV (Lite) Wallet - [spesmilo/electrum](https://github.com/spesmilo/electrum)
 - [ ] Wasabi Wallet - [zksnacks/walletwasabi](https://github.com/zksnacks/walletwasabi)
-
 - [ ] Mempool & History - [jhoenicke/mempool](https://github.com/bsha3/mempool)
 
 ### Any Time
@@ -46,7 +45,6 @@ Each listed repository will be forked into https://github.com/bsha3 for developm
 - [ ] [BarterDEX](https://github.com/komodoplatform/barterdex)
 - [ ] Trezor, Ledger, KeepKey
 - [ ] Icon Pack - [atomiclabs/cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons)
-
 - [ ] SMS, Telegram, Discord, Twitch, Twitter Send & Tip Bots
 
-**Note - Addresses aren't compatible with Bitcoin wallet code where normally a prefix version byte is just changed; full replacement of SHA256 -> SHA3-256 is necessary.**
+**To review nuances and caveats of the chain, see [bsha3/bipmad](https://github.com/bsha3/bipmad).**
