@@ -37,12 +37,11 @@ Each listed repository will be forked into https://github.com/bsha3 for developm
 - [ ] [btcpayserver/BTCPayServer](https://github.com/btcpayserver/btcpayserver), [btcpayserver/BTCPayServer-docker](https://github.com/btcpayserver/btcpayserver-docker)
 - [ ] SPV (Lite) Wallet - [spesmilo/electrum](https://github.com/spesmilo/electrum)
 - [ ] Wasabi Wallet - [zksnacks/walletwasabi](https://github.com/zksnacks/walletwasabi)
-- [ ] Mempool & History - [jhoenicke/mempool](https://github.com/bsha3/mempool)
+- [ ] Mempool History - [jhoenicke/mempool](https://github.com/bsha3/mempool)
 
 ### Any Time
 
 - [ ] Trezor, Ledger, KeepKey
-
 - [ ] Icon Pack - [atomiclabs/cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons)
 - [ ] SMS, Telegram, Discord, Twitch, Twitter Send & Tip Bots
 
